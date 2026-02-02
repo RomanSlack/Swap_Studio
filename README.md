@@ -4,6 +4,12 @@
   <img src="SwapStudio_banner.jpg" alt="Swap Studio Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://x.com/RomanSlack1/status/2016750144436523218" style="cursor: pointer;">
+    <img src="https://img.shields.io/badge/▶_Watch_Demo-000000?style=for-the-badge&logo=x&logoColor=white" alt="Watch Demo" height="50">
+  </a>
+</p>
+
 AI-powered character transformation using motion capture and video synthesis. Record yourself or upload a video, provide a character image, and watch AI replace you with that character - preserving your exact movements, gestures, and timing.
 
 ## Features
